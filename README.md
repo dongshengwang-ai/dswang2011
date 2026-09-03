@@ -18,7 +18,7 @@ I received my Ph.D. in Computer Science from the University of Copenhagen where 
 ### Core Expertise & Engineering Impact
 
 * **Generative AI Platforms & Agents**: Expert in building production-grade AI platforms, Hierarchical Deep-RAG agent orchestration, Model Context Protocol (MCP) integrations, and automated semantic feature/signal extraction pipelines.
-* **Document AI & Foundation Models**: Principal architect of layout-aware generative language models (*DocLLM* series, ACL 2024) and graph-augmented language models (*DocGraphLM*, SIGIR 2023) tailored for visually rich, multimodal enterprise reports.
+* **Document AI & Foundation Models**: Principal architect of layout-aware generative language models ([*DocLLM* series, ACL 2024](https://aclanthology.org/2024.acl-long.463/)) and graph-augmented language models (*DocGraphLM*, SIGIR 2023) tailored for visually rich, multimodal enterprise reports.
 * **Knowledge Representation & Paradigm Evolution**: Deeply battle-tested in AI paradigm evolution. Built large-scale Knowledge Graphs during my pre-PhD research at CAS (e.g., Linked-Brain-Data), before pivoting decisively to Neural NLP, modern LLMs, and Agentic architectures during and after my Ph.D. Author of [*5 Reasons Knowledge Graph Will Never Bloom*](https://dongshengwang.medium.com/5-reasons-knowledge-graph-will-never-bloom-418601957f33) *(written in 2021, foreseeing the limits of symbolic AI prior to ChatGPT)*.
 ---
 
