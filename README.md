@@ -15,15 +15,13 @@ I am an incoming Lead Applied Scientist at Thomson Reuters Lab (starting October
 I received my Ph.D. in Computer Science from the University of Copenhagen under Prof. Christina Lioma as part of the European Union's Horizon 2020 Marie Skłodowska-Curie <a href="https://www.quartz-itn.eu/people/esr9" target="_blank">QUARTZ project</a>. My career spans key research and engineering roles across quantitative finance, legal-tech domains, and leading tech companies including Tencent AI and the Chinese Academy of Sciences (CAS).
 
 ---
-
 ### Core Expertise & Engineering Impact
 
-*   **Generative AI Platforms & Agents**: Expert in building production-grade AI platforms, Hierarchical Deep-RAG agent orchestration, Model Context Protocol (MCP) integrations, and automated semantic feature/signal extraction pipelines.
-*   **Document AI & Foundation Models**: Principal architect of layout-aware generative language models (*DocLLM* series, ACL 2024) and graph-augmented language models (*DocGraphLM*, SIGIR 2023) tailored for visually rich, multi-modal enterprise reports.
-*   **Knowledge Graph & Fact-Checking Systems**: Extensive background in large-scale Knowledge Graph construction (e.g., *Linked-Brain-Data*), relation extraction, and automatic multi-domain fact-checking networks. Deeply battle-tested in AI paradigm evolution—transitioning from classical Knowledge Graphs & Linked Data to modern end-to-end Deep Learning/LLMs <a href="https://dongshengwang.medium.com/5-reasons-knowledge-graph-will-never-bloom-418601957f33" target="_blank">5 Reasons Knowledge Graph will never bloom
-</a>. 
-
+* **Generative AI Platforms & Agents**: Expert in building production-grade AI platforms, Hierarchical Deep-RAG agent orchestration, Model Context Protocol (MCP) integrations, and automated semantic feature/signal extraction pipelines.
+* **Document AI & Foundation Models**: Principal architect of layout-aware generative language models (*DocLLM* series, ACL 2024) and graph-augmented language models (*DocGraphLM*, SIGIR 2023) tailored for visually rich, multimodal enterprise reports.
+* **Knowledge Representation & Paradigm Evolution**: Extensive background in large-scale Knowledge Graph construction (e.g., *Linked-Brain-Data*), relation extraction, and fact-checking networks. Deeply battle-tested in AI paradigm evolution—transitioning from classical Knowledge Graphs to modern end-to-end Deep Learning/LLMs. Author of [*5 Reasons Knowledge Graph Will Never Bloom*](https://dongshengwang.medium.com/5-reasons-knowledge-graph-will-never-bloom-418601957f33) *(written in 2021, foreseeing the limits of symbolic AI prior to ChatGPT)*.
 ---
+
 
 ### Featured Publications & Patents
 
