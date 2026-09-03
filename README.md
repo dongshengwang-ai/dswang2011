@@ -20,7 +20,8 @@ I received my Ph.D. in Computer Science from the University of Copenhagen under 
 
 *   **Generative AI Platforms & Agents**: Expert in building production-grade AI platforms, Hierarchical Deep-RAG agent orchestration, Model Context Protocol (MCP) integrations, and automated semantic feature/signal extraction pipelines.
 *   **Document AI & Foundation Models**: Principal architect of layout-aware generative language models (*DocLLM* series, ACL 2024) and graph-augmented language models (*DocGraphLM*, SIGIR 2023) tailored for visually rich, multi-modal enterprise reports.
-*   **Knowledge Graph & Fact-Checking Systems**: Extensive background in large-scale Knowledge Graph construction (e.g., *Linked-Brain-Data*), relation extraction, and automatic multi-domain fact-checking networks.
+*   **Knowledge Graph & Fact-Checking Systems**: Extensive background in large-scale Knowledge Graph construction (e.g., *Linked-Brain-Data*), relation extraction, and automatic multi-domain fact-checking networks. Deeply battle-tested in AI paradigm evolution—transitioning from classical Knowledge Graphs & Linked Data to modern end-to-end Deep Learning/LLMs <a href="https://dongshengwang.medium.com/5-reasons-knowledge-graph-will-never-bloom-418601957f33" target="_blank">5 Reasons Knowledge Graph will never bloom
+</a>. 
 
 ---
 
