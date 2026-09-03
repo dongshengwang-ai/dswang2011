@@ -1,6 +1,6 @@
 # Dongsheng Wang
 
-**Incoming Lead Applied Scientist at Thomson Reuters** *(Starting October 2026)*  
+**Incoming Lead Applied Scientist at Thomson Reuters Lab ** *(Starting October 2026)*  
 *AI Quantitative Researcher at Verition Fund Management (AI Lab)*  
 *Former Vice President & AI Research Lead at J.P. Morgan AI Research*
 
@@ -10,7 +10,7 @@
 
 ### Biography
 
-I am an incoming Lead Applied Scientist at Thomson Reuters (starting October 2026) and currently an AI Quantitative Researcher at Verition Fund Management's AI Lab, where I built the firm's core AI platform from 0 to 1. Previously, I was Vice President and AI Research Lead at J.P. Morgan AI Research in London, where I initiated and led the flagship *DocLLM* project. 
+I am an incoming Lead Applied Scientist at Thomson Reuters Lab (starting October 2026) and currently an AI Quantitative Researcher at Verition Fund Management's AI Lab, where I built the firm's core AI platform from 0 to 1. Previously, I was Vice President and AI Research Lead at J.P. Morgan AI Research in London, where I initiated and led the flagship *DocLLM* project. 
 
 I received my Ph.D. in Computer Science from the University of Copenhagen under Prof. Christina Lioma as part of the European Union's Horizon 2020 Marie Skłodowska-Curie <a href="https://www.quartz-itn.eu/people/esr9" target="_blank">QUARTZ project</a>. My career spans key research and engineering roles across quantitative finance, legal-tech domains, and leading tech companies including Tencent AI and the Chinese Academy of Sciences (CAS).
 
@@ -20,7 +20,7 @@ I received my Ph.D. in Computer Science from the University of Copenhagen under 
 
 *   **Generative AI Platforms & Agents**: Expert in building production-grade AI platforms, Hierarchical Deep-RAG agent orchestration, Model Context Protocol (MCP) integrations, and automated semantic feature/signal extraction pipelines.
 *   **Document AI & Foundation Models**: Principal architect of layout-aware generative language models (*DocLLM* series, ACL 2024) and graph-augmented language models (*DocGraphLM*, SIGIR 2023) tailored for visually rich, multi-modal enterprise reports.
-*   **Knowledge & Fact-Checking Systems**: Extensive background in large-scale Knowledge Graph construction (e.g., *Linked-Brain-Data*), relation extraction, and automatic multi-domain fact-checking networks.
+*   **Knowledge Graph & Fact-Checking Systems**: Extensive background in large-scale Knowledge Graph construction (e.g., *Linked-Brain-Data*), relation extraction, and automatic multi-domain fact-checking networks.
 
 ---
 
