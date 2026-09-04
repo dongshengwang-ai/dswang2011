@@ -36,5 +36,5 @@ I received my Ph.D. in Computer Science from the University of Copenhagen where 
 ---
 
 ### Selected Keynotes & Talks
-
+*   **Invited Speaker (2024)**: UCL TechSocial Series (March 2024) — [Document AI and Large Language Models](https://www.ucl.ac.uk/research-innovation/advanced-research-computing/digital-research-community-events-support/events/techsocial-series/techsocial-series-archive/techsocial-series-march-2024).
 *   **Invited Keynote (2023)**: [Shanghai Library Lecture: Large Language Models and Knowledge Graphs](https://www.youtube.com/watch?v=Ui4XvEMLLyY) — Delivered an invited talk on LLM evolution, prompt engineering, PEFT, and KG futures.
